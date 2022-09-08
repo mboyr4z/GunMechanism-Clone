@@ -1,5 +1,7 @@
 # GunMechanism-Clone
 
+Silah düzeneğini hazırlayıp hedeflere ateş etme mantığındaki simülasyon oyunum
+
 ![gunmec1](https://user-images.githubusercontent.com/82450697/189169052-a53fabca-bca9-4256-9fed-21192ee2dc27.PNG)
 
 
